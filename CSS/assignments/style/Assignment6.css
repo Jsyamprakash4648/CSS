@@ -1,0 +1,55 @@
+body
+{
+    
+    flex-direction: column;
+    height: 100%;
+   
+    
+
+}
+
+
+
+.container
+{
+    background-color: green   ;
+    justify-content: left;
+    display: flex;
+    align-items: left;
+    margin-bottom: 10%;
+    width: 18%;
+    flex-direction: row; 
+    padding: 6px;
+
+    
+   
+    
+}
+
+
+
+img
+{
+    width: 65px;
+    height: 65px;
+    float: left;
+    margin-right: 5px;
+}
+
+@media screen and (max-width:768px)
+{
+    body
+    {
+        flex-direction: row;
+    }
+    .container
+    {
+        flex-direction: row;
+    }
+    img
+    {
+        flex-direction: row; 
+    }
+
+    
+}

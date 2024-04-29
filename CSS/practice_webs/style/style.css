@@ -1,0 +1,183 @@
+
+ /*
+ h1 {
+    color: brown;
+    }
+ p {
+    color: blue;
+    font-size: 200%;
+    background-color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   
+   
+   
+
+
+   ul {
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+
+   }
+
+
+   #None{
+    line-height: 3;
+   }
+
+   a {
+    text-decoration: None;
+   }
+   
+   
+
+   #underline
+   {
+    text-decoration:underline
+   }
+   #overline
+   {
+    text-decoration:overline
+   }
+   #linethrough
+   {
+    text-decoration:line-through
+   }
+
+
+
+   #left
+   {
+    text-align: left;
+   }
+
+   #right
+   {
+    text-align:right;
+   }
+
+   #center
+   {
+    text-align:center;
+   }
+
+   #justify
+   {
+    text-align: justify;
+   }
+
+
+
+   #picture
+   {
+    vertical-align:top;
+   }
+   image{
+    vertical-align: bottom;
+   }
+
+
+   h3::first-letter
+   {
+    font-size: 300%;
+    
+    
+   }
+
+   h3{
+    text-indent: 50px;
+    text-shadow: 2px 0 0 #BADA55;
+
+   }
+
+   a:link{
+    color: red;
+
+   }
+   a:hover{
+    color: green;
+
+   }
+
+   a:active{
+    color: pink;
+
+   }
+   a:visited{
+    color: blue;
+
+   }
+
+   a:focus{
+    color:purple;
+
+   }
+   */
+/*
+   #wrapper
+   {
+    width: 50%;
+   border: 10px ridge #BADA55;
+   border-color: #BADA55 blue green yellow;
+   padding: 5px 10px 15px 20px;
+   }
+
+   h1{
+    border:20px solid #BADA55;
+    padding: 5px 10px 15px 20px;
+   }
+
+   */
+
+   .samplediv
+   {
+    width: 50%;
+   border: 10px ridge #BADA55;
+   border-color: #BADA55 blue green yellow;
+   
+   Padding:15px 25px 10px;
+   margin:  0 auto ;
+   }
+
+
+   a {
+    text-decoration: None;
+    color: black;
+   }
+   ul{
+    background-color: skyblue;
+    height: 50px;
+   }
+
+   li:hover {
+        background-color: #BADA55;
+   }
+
+   #comingsoon
+   {
+    visibility: hidden;
+   }
+
+   li{
+    
+    
+    
+    display: inline;
+    display: inline-block;
+    height: 50px;
+    padding: 0 15px;
+    line-height: 50px;
+    
+   }
+
+
+
+   
+
+   
+
+
+
+
+
+   

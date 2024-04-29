@@ -1,0 +1,281 @@
+.button{
+    width: 120px;
+    height: 35px;
+    background-color: white;
+    padding: 2px; 
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+
+}
+
+#red
+{
+    background-color: red;
+    color:white;
+    font-size: medium;
+}
+
+#blue
+{
+    background-color: blue;
+    color:white;
+    font-size: medium;
+}
+
+#green
+{
+    background-color: green;
+    color:white;
+    font-size: medium;
+}
+
+#orange
+{
+    background-color: orange;
+    color:black;
+    font-size: medium;
+}
+
+#skyblue
+{
+    background-color: skyblue;
+    color:white;
+    font-size: medium;
+}
+
+#black
+{
+    background-color: black;
+    color:white;
+    font-size: medium;
+}
+
+#grey
+{
+    background-color: grey;
+    color:white;
+    font-size: medium;
+    
+}
+.box
+{
+   float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    place-content: center;
+    
+}
+
+.box2
+{
+   float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+    place-content: center;
+    
+}
+
+.box3
+{
+   float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+    place-content: center;
+    width: 100%;
+    
+}
+
+
+
+#red1
+{
+    background-color: white;
+    color:black;
+    font-size: medium;
+    width: 100px;
+    height: 40px;
+}
+
+#blue2
+{
+    background-color: grey;
+    color:black;
+    font-size: medium;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
+
+#green3
+{
+    background-color: white;
+    color:black;
+    font-size: medium;
+    border-color: skyblue;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
+
+#orange4
+{
+    background-color: white;
+    color:red;
+    font-size: medium;
+    border-color: red;
+    border-radius: 9px;
+    width: 100px;
+    height: 40px;
+}
+
+
+#skyblue5
+{
+    background-color: white;
+    color:black;
+    font-size: medium;
+    border-color: greenyellow;
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+    
+}
+
+#black6
+{
+    background-color: red;
+    color:white;
+    font-size: large;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+
+
+}
+
+#grey7
+{
+    background-color: black;
+    color:white;
+    font-size: large;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+
+
+.box4
+{
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+    place-content: center;
+    width: 100%;
+  
+}
+
+#reda
+{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    font-size:200%;
+    border:none
+
+}
+
+
+#blueb
+{
+    background-color: #169a8d;
+    color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    font-size:200%;
+    border:none
+}
+
+#greenc
+{
+    background-color: grey;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size:200%;
+    outline: none;
+    border:none
+    
+}
+.button1
+{
+    width: 120px;
+    height: 35px;
+    
+    
+}
+
+
+.box5 .button1
+{
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+  }
+  .box5
+  {
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+    float: left;padding-top: 4%;
+    
+  }
+
+  #red11
+  {
+    background-color: #169a8d;
+    color: white;
+  }
+
+  
+  #blue22
+  {
+    background-color: black;
+    color: white;
+  }
+
+  #green33
+  {
+    background-color: grey;
+    color: white;
+  }
+
+
+
+.button1:hover {
+    background-color: #3e8e41;
+  }
+
+
+
+
+
+
+
+
+
+

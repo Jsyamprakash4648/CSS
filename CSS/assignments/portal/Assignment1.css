@@ -1,0 +1,152 @@
+.page
+{
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 40px) ;
+    position: absolute;
+    place-content: center;
+    width: calc(100% - 40px);
+    background-color: grey;
+    
+}
+
+/*  flex-direction: column;*/
+
+.container
+{
+    display: flex;
+    height: 350px;
+    margin: 0 auto;
+    width: 640px;
+    
+      
+   
+}
+
+
+
+.leftbox
+{
+   background-color: darkred;
+    
+    width: 45%;
+    float: left;
+  
+    text-align: center;
+    padding-left: 5%;
+
+}
+
+.rightbox
+{
+    background-color: white;
+    
+    width: 45%;
+    float: left;
+text-align: left;
+    padding: 20px;
+
+
+}
+
+
+
+.header{
+    margin-top: 20%;
+    color: white;
+
+   
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.hello
+{
+    text-align: left;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img
+{
+    width: 19px;
+    height: 19px;
+   
+}
+
+.boxes{
+    height: 15px;
+    width: 30px;
+
+}
+
+.button 
+{
+    text-align: left;
+    width: 85%;
+    height: 5%;
+    color: white;
+  
+    
+}
+
+.line{
+    color: white;
+    
+}
+
+.linkconatiner pre{
+    text-align: left;
+    width: 85%;
+    height: 5%;
+    color: white;
+  
+
+}
+
+.right p
+{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+input{
+    margin-top: 10px;
+}
+
+
+@media screen and (max-width: 650px) {
+    .leftbox {
+      width: 100%;
+      height: 100%;
+      margin-top: 0;
+    }
+
+    .rightbox {
+        width: 100%;
+        height: 100%;
+        margin-top: 0;
+        
+      }
+      .page
+{
+   
+   width: calc(100% 10px);
+   height:calc(100% 10px); ;
+    
+}
+
+      
+}
+
+
+
+
+
+
+
+
+
+
+

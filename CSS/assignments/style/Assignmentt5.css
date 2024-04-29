@@ -1,0 +1,40 @@
+#border
+{
+    border-radius: 10px;
+
+}
+
+#circle
+{
+    border-radius: 70%;
+
+}
+
+#frame
+{
+ 
+    outline-color: black;
+    outline-style:dashed;
+    
+}
+
+picture{
+    float: left;
+}
+.syammmm 
+{
+    position: relative;
+    float: right;
+}
+.syam
+{
+position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 20px;
+
+}

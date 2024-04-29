@@ -1,0 +1,19 @@
+.icon-bar {
+    width: 100%; 
+    background-color: #555; 
+    overflow: auto;
+  }
+  
+  .icon-bar a {
+    float: left; 
+    text-align: center; 
+    width: 20%; 
+    padding: 12px 0; 
+    
+    color: white; 
+    font-size: 36px; 
+  }
+  a:hover
+  {
+    background-color: blanchedalmond;
+  }
